@@ -1,0 +1,3 @@
+[submodule "0x02-git"]
+	path = 0x02-git
+	url = ./0x02-git/
